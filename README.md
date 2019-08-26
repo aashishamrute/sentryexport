@@ -10,11 +10,13 @@ Simple Java command line program to export events from sentry and store on file 
 
 - Download executable/sentryexport-1.0 
 - execute 
+
     ./sentryexport-1.0 -f=data.json -h=sentry.aashish.io -p=sentry/ioaashishios -d=2019-08-10 -a=<AUTH_TOKEN>
 
 ## To execute on Windows
 - Download executable/sentryexport-1.0.exe
 - execute 
+
     sentryexport-1.0 -f=data.json -h=sentry.aashish.io -p=sentry/ioaashishios -d=2019-08-10 -a=<AUTH_TOKEN>
 
 ## All options
