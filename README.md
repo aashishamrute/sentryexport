@@ -34,3 +34,5 @@ Simple Java command line program to export events from sentry and store on file 
     -p=<sentryProject>    Sentry Project
     -t=<tillTime>         Time (HH:MI:SS) till when data needs to be exported, by
                           default 00:00:00
+
+Native Images are generated using [GraalVM](https://www.graalvm.org/)
